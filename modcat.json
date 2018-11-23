@@ -4,7 +4,7 @@
         "description": "product owner",
         "value": {
             "full_name": "Linux/Unix Operations Support Team",
-            "email": "",
+            "email": null,
             "team_link": "https://blog.serverdensity.com/spotify-gov-uk-handle-on-call/"
         }
     },
